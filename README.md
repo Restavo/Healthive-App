@@ -1,6 +1,6 @@
 # Healthive - Personalized Weight Management System
 
-Healthive adalah aplikasi kesehatan berbasis web yang dirancang untuk membantu pengguna mencapai berat badan ideal melalui manajemen nutrisi yang dipersonalisasi. [cite: 338] [cite_start]Aplikasi ini menggunakan algoritma kesehatan standar (BMI, BMR, dan TDEE) untuk memberikan rekomendasi asupan kalori dan makronutrien yang disesuaikan dengan tujuan spesifik pengguna, baik untuk menaikkan maupun menurunkan berat badan. 
+Healthive adalah aplikasi kesehatan berbasis web yang dirancang untuk membantu pengguna mencapai berat badan ideal melalui manajemen nutrisi yang dipersonalisasi. Aplikasi ini menggunakan algoritma kesehatan standar (BMI, BMR, dan TDEE) untuk memberikan rekomendasi asupan kalori dan makronutrien yang disesuaikan dengan tujuan spesifik pengguna, baik untuk menaikkan maupun menurunkan berat badan. 
 
 ⚠️ **Status Proyek: Dalam Tahap Pengembangan** Proyek ini sedang dalam proses pengembangan aktif sebagai bagian dari perancangan Software Engineering. 
 
